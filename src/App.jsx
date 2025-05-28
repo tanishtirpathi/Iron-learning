@@ -2,7 +2,6 @@ import Navbar from "./Pages/Navbar";
 import SecondPage from "./Pages/SecondPage";
 import ThirdPage from "./Pages/ThreePage";
 import FourthPage from "./Pages/Fourth";
-import FifthPage from "./Pages/FifthPage";
 import React from "react";
 import { RainbowButton } from "./components/magicui/rainbow-button";
 import { RetroGrid } from "./components/magicui/retro-grid";
@@ -47,9 +46,7 @@ function App() {
       </div>
       <SecondPage />
       <ThirdPage />
-      <FourthPage />
-      <FifthPage />
-    </>
+      <FourthPage />    </>
   );
 }
 
