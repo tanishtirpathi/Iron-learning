@@ -1,0 +1,7 @@
+.chart-container {
+  width: 100%;
+  height: 400px;
+  background-color: #f0f8ff; /* GitHub-style dark background */
+  padding: 1rem;
+  border-radius: 10px;
+}
